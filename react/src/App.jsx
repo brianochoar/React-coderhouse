@@ -8,16 +8,13 @@ import {Carro} from './components/Carro'
 export const App = () => {
     return (
        
-        <div className='container'>
+        <div className='nav-item'>
             <Navbar/>
-            <Carro/>
-            
-        </div>
-
-        
-
-        
+            <Carro/> 
+        </div>     
     )
 }
+
+
 
 

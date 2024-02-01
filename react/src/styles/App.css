@@ -1,22 +1,21 @@
 
-.container {
+.nav-item {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: white;
-    color: white;
-    font-size: 20px;
+    background-color: rgb(223, 14, 188);
+  | font-size: 20px;
     font-weight: 400;
     font-style: italic;
-    border:  solid 1px black;
     margin: 3px;
     padding: 2px;
-    color: black;
-    margin-left: 20px;  
+    color: white;
+    margin-left: 20px; 
+     
     
   }
 
-.estilo{
-    background-color: black;
-    height: 300px;
-}
+  .nav-link{
+    text-decoration: none; 
+    color: inherit; 
+  }
