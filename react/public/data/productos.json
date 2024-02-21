@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "title": "Guante Ironman Hand",
+        "price": 12500,
+        "stock": 10,
+        "img": "Ironman1.jpg",
+        "category": "marvel"
+    },
+    {
+        "id": 2,
+        "title": "Mascara Iron Spider",
+        "price": 12000,
+        "stock": 15,
+        "img": "spider1.jpg",
+        "category": "marvel"
+    },
+    {
+        "id": 3,
+        "title": "Martillo de Thor",
+        "price": 11000,
+        "stock": 9,
+        "img": "martillo.jpg",
+        "category": "marvel"
+    },
+    {
+        "id": 4,
+        "title": "Mini Yoda",
+        "price": 9500,
+        "stock": 10,
+        "img": "yoda2.jpg",
+        "category": "disney"
+    },
+    {
+        "id": 5,
+        "title": "Dark Maul",
+        "price": 8500,
+        "stock": 12,
+        "img": "maul.jpg",
+        "category": "disney"
+        
+    },
+    {
+        "id": 6,
+        "title": "Imperial patrol",
+        "price": 10000,
+        "stock": 15,
+        "img": "imperial.jpg",
+        "category": "disney"
+    },
+    {
+        "id": 7,
+        "title": "Fast Racer ",
+        "price": 9800,
+        "stock": 15,
+        "img": "fastracer.jpg",
+        "category": "hotwheels"
+    },
+    {
+        "id": 8,
+        "title": "Metal Machine",
+        "price": 10800,
+        "stock": 12,
+        "img": "metal.jpg",
+        "category": "hotwheels"
+
+    },
+    {
+        "id": 9,
+        "title": "Truck Gulf",
+        "price": 9600,
+        "stock": 17,
+        "img": "micro.jpg",
+        "category":"hotwheels"
+    
+    }
+   
+]
